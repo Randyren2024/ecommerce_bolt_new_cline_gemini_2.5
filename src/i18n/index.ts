@@ -7,9 +7,18 @@ import de from './locales/de'
 import fr from './locales/fr'
 import th from './locales/th'
 
+const getBrowserLanguage = () => {
+  const browserLanguage = navigator.language.split('-')[0];
+  const supportedLocales = ['en', 'es', 'ru', 'ja', 'de', 'fr', 'th'];
+  if (supportedLocales.includes(browserLanguage)) {
+    return browserLanguage;
+  }
+  return 'en'; // Fallback to English if browser language is not supported
+};
+
 const i18n = createI18n({
   legacy: false,
-  locale: 'en',
+  locale: getBrowserLanguage(),
   fallbackLocale: 'en',
   messages: {
     en,
