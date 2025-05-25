@@ -1,0 +1,671 @@
+{
+  "files": [
+    {
+      "filename": "DEEPRobotics-X30 Quadruped Robot 3.17.2025 ENV.pdf",
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "A Flagship Product Born for the Industry",
+          "images": [
+            "images/X30_p1_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 2,
+          "text": "Catalog 01. Core Functions 02. Product Info 03. Applications",
+          "images": [
+            "images/X30_p2_img1.jpeg",
+            "images/X30_p2_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 3,
+          "text": "Undaunted by extreme weather Fusion perception lights up the darkness Surmounting obstacles, responding promptly Safe, efficient and highly collaborative Extra-long endurance, quick battery swaps Stable, reliable auto-charging",
+          "images": [
+            "images/X30_p3_img1.jpeg",
+            "images/X30_p3_img2.jpeg",
+            "images/X30_p3_img3.jpeg",
+            "images/X30_p3_img4.jpeg",
+            "images/X30_p3_img5.jpeg",
+            "images/X30_p3_img6.jpeg",
+            "images/X30_p3_img7.jpeg",
+            "images/X30_p3_img8.jpeg"
+          ]
+        },
+        {
+          "page_number": 4,
+          "text": "Core functions. Undaunted by extreme weather Temperatures can vary markedly through the seasons and in different regions, and this needs to be taken into account when planning for outdoor inspection and rescue work. As a flagship model for the industry, X30’s operating temperature range has greatly increased. It has been successfully tested in real-world scenarios in temperatures from minus 20°C to plus 55°C. It has also been vigorously tested at the IP67 protection level. Surmounting obstacles, responding promptly During the implementation of inspection, security, rescue and other tasks, X30 is capable of climbing up and down 45-degree stairs with unprecedented speed and a dexterous posture. It braves open-riser staircases with ease, responds to task requirements on the spur of the moment, and quickly adapts to more complex scenarios and blind spots. Fusion perception lights up the darkness Traditional inspection and rescue operations can take place at any time, day or night, when the lighting conditions on site are changeable and uncontrollable. With its fusion perception capabilities, X30 can carry out such tasks regardless of the light environment, be it over-bright, dim, flickering or even complete darkness. 01.",
+          "images": [
+            "images/X30_p4_img1.jpeg",
+            "images/X30_p4_img2.jpeg",
+            "images/X30_p4_img3.jpeg",
+            "images/X30_p4_img4.jpeg"
+          ]
+        },
+        {
+          "page_number": 5,
+          "text": "Safe, efficient and highly collaborative X30 uses light interaction to bring the controller up to speed about its working status. In the meantime, it autonomously avoids colliding into random moving objects. Coupled with an emergency stop button, X30 helps protect the safety of other parties and mobile platforms in industrial scenarios. Extra-long endurance, quick battery swaps An extra-long battery life is standard a shared expectation for industry-level quadruped robots in many scenarios. X30 features a 25% increase in endurance when laden with mounts. On top of this, its battery has a quick-release capability to expedite battery changes. This design ensures that special tasks can be completed quickly, which is vital in the event of industrial emergencies. Stable, reliable auto-charging Problems such as lighting, grime and dust in various industrial scenarios can affect the efficiency of traditional charging solutions. DEEP Robotics has independently developed a new generation of integrated positioning solutions to ensure a smoother and more effective charging process. 01. Core functions.",
+          "images": [
+            "images/X30_p5_img1.jpeg",
+            "images/X30_p5_img2.jpeg",
+            "images/X30_p5_img3.jpeg",
+            "images/X30_p5_img4.jpeg"
+          ]
+        },
+        {
+          "page_number": 6,
+          "text": "Catalog 01. Core Functions 02. Product Info 03. Applications",
+          "images": [
+            "images/X30_p6_img1.jpeg",
+            "images/X30_p6_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 7,
+          "text": "02. Product info. X30 695mm 1000mm Protection: IP67 Interface： Weight: 56kg Load： Standing size： 1000*695*470(mm) Endurance: Mileage: Slope： Step/Obstacle’s H： ≥4m/s Max. Speed: 2.5-4h ≥10km ≤45° Temperature： -20°～55° ≥20kg ≥20cm Ethernet Output power supply (72V BAT)",
+          "images": [
+            "images/X30_p7_img1.jpeg",
+            "images/X30_p7_img2.jpeg",
+            "images/X30_p7_img3.jpeg"
+          ]
+        },
+        {
+          "page_number": 8,
+          "text": "02. 715mm 1000mm X30 Pro Protection: IP67 Interface： Weight: 59kg Load： Standing size： 1000*715*470(mm) Endurance: Mileage: Slope： Step/Obstacle’s H： ≥4m/s Max. Speed: 2.5-4h ≥10km ≤45° Temperature： -20°～55° ≥20kg ≥20cm USB2.0 USB3.0 Ethernet WiFi Output power supply (5V 12V 24V) Product info.",
+          "images": [
+            "images/X30_p8_img1.jpeg",
+            "images/X30_p8_img2.jpeg",
+            "images/X30_p8_img3.jpeg"
+          ]
+        },
+        {
+          "page_number": 9,
+          "text": "02. X30 Pro X30 01. Stair climbing perception 02. Auto-charging 03. Obstacle stop 04. Fusion calibration algorithm 05. Multi-sensor fusion mapping algorithm 06. Multi-sensor fusion localization algorithm 07. Navigation planning algorithm 08. Industrial-level navigation interface (12V 24V power supply) 09. Smart light interaction interface Product info.",
+          "images": [
+            "images/X30_p9_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 10,
+          "text": "02. Intelligent Controller As the equipped intelligent controller for X30, the navigation host motherboard simultaneously handles business-related program processing, primarily providing functions such as map construction and location navigation. It integrates a gigabit network switch and multiple voltage stabilization modules. Product info.",
+          "images": [
+            "images/X30_p10_img1.jpeg",
+            "images/X30_p10_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 11,
+          "text": "02. Charging Point Dimension：1135*900*845 L*W*H Input：220V/4.9A Output：84V/8A Product info.",
+          "images": [
+            "images/X30_p11_img1.jpeg",
+            "images/X30_p11_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 12,
+          "text": "02. Plug-in Battery Dimension：280*240*82 L*W*H Rated voltage：72V Rated capacity：22.4Ah Rated energy：1612.8Wh Product info.",
+          "images": [
+            "images/X30_p12_img1.jpeg",
+            "images/X30_p12_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 13,
+          "text": "Catalog 01. Core Functions 02. Product Info 03. Applications",
+          "images": [
+            "images/X30_p13_img1.jpeg",
+            "images/X30_p13_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 14,
+          "text": "Applications. Emergency Rescue DEEP Robotics’ quadruped robots has been delivered to multiple domestic fire brigades. In the future, they can assist rescue personnel in conducting reconnaissance work in post- disaster rubble, unstable buildings, and environments with toxic substances, chemical contamination, and oxygen depletion, providing valuable support in challenging and hazardous situations. Power Patrol Inspection DEEP Robotics’ quadruped robots are currently conducting unmanned inspections in various substations and underground cable tunnels worldwide. They are replacing manual, high- intensity, and repetitive inspection tasks in adverse weather and environmental conditions. DEEP Robotics’ quadruped robots have open-modular structure and interface, which supports the advanced development of robots in education and scientific research ； they meet different research needs, and help users broaden their research directions. Education, Scientific Research 03.",
+          "images": [
+            "images/X30_p14_img1.jpeg",
+            "images/X30_p14_img2.jpeg",
+            "images/X30_p14_img3.jpeg",
+            "images/X30_p14_img4.jpeg",
+            "images/X30_p14_img5.jpeg",
+            "images/X30_p14_img6.jpeg",
+            "images/X30_p14_img7.jpeg"
+          ]
+        },
+        {
+          "page_number": 15,
+          "text": "@DEEP ROBOTICS",
+          "images": [
+            "images/X30_p15_img1.jpeg",
+            "images/X30_p15_img2.jpeg",
+            "images/X30_p15_img3.jpeg",
+            "images/X30_p15_img4.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "DEEPRobotics-Company Profile 3.21.2025 ENV.pdf",
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Pioneering Innovation & Ap p lica t io n o f Em b o d ie d AI www.deeprobotics.cn Ha n g z h o u Yu n s h e n c h u Te c h n o lo g y Co . , Lt d",
+          "images": [
+            "images/CompanyProfile_p1_img1.jpeg",
+            "images/CompanyProfile_p1_img2.png"
+          ]
+        },
+        {
+          "page_number": 2,
+          "text": "01. About us 02. Solutions 05. Applications 03. Products Table of Content",
+          "images": [
+            "images/CompanyProfile_p2_img1.jpeg",
+            "images/CompanyProfile_p2_img2.png"
+          ]
+        },
+        {
+          "page_number": 3,
+          "text": "01. About us",
+          "images": [
+            "images/CompanyProfile_p3_img1.jpeg",
+            "images/CompanyProfile_p3_img2.png"
+          ]
+        },
+        {
+          "page_number": 4,
+          "text": "DEEP Robotics DEEP Robotics, founded in 2017, is an international high - tech enterprise specializing in the R&D, production, sales, and service of humanoid robots, quadrupedal robots, and their core components . The company is committed to independent innovation, with cutting -edge technologies in advanced control algorithms, intelligent environment perception, and artificial intelligence algorithms that are at the forefront of international standards . DEEP Robotics has deeply rooted itself in industry applications, including power station, factory, and tunnel inspections, as well as emergency rescue, fire detection, and scientific research. The related applications and products have been interviewed and reported by Reuters, NBC, BBC, AFP, Nikkei, People's Daily, Xinhua News, and South China Morning Post, and have been featured on the cover of the authoritative journal “Science Robotics” . About us P io n e e rin g In n o va t io n & Ap p lic a t io n o f Em b o d ie d AI",
+          "images": [
+            "images/CompanyProfile_p4_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 5,
+          "text": "Founder Zhu Qiuguo Founder CEO Ph.D., Zhejiang University About us Executive Chairman of the 28th IDC Robocon 10+ national and provincial scientific research projects; 40+ academic papers published; 40+ invention patents, 3 international invention patents.",
+          "images": [
+            "images/CompanyProfile_p5_img1.jpeg",
+            "images/CompanyProfile_p5_img2.jpeg",
+            "images/CompanyProfile_p5_img3.png",
+            "images/CompanyProfile_p5_img4.png",
+            "images/CompanyProfile_p5_img5.png",
+            "images/CompanyProfile_p5_img6.png"
+          ]
+        },
+        {
+          "page_number": 6,
+          "text": "Li Chao Co-Founder CTO PhD, Zhejiang University Chu Jian Strategic Advisor Founder of SupconTechnology Group Researcher in the College of Control Science and Engineering at Zhejiang University Expert in industrial automation State Scientific and Technological Progress Awardof China (Second Prize) State Technological Innovation Award of China (Second Prize) Over 15 years of experience in robotics technology and product development National project State High-Tech Development Plan and National Natural Science Foundation of China projects, etc. Youth Award of the First 2050 Conference in 2018 Huawei's First Batch of Global Ascend Experts in 2020 The core personnel are mainly PhDs and Masters from Zhejiang University, Harbin Institute of Technology, University of Chinese Academy of Scienc es, Shanghai Jiao Tong University, Xi'an Jiaotong University, Georgia Institute of Technology, Technical University Dortmund, and other well -known universities. Core Team About us",
+          "images": [
+            "images/CompanyProfile_p6_img1.jpeg",
+            "images/CompanyProfile_p6_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 7,
+          "text": "The 1st quadruped robot on the cover of Science Robotics The 1st quadruped robot with IP66 industrial protection in China 2018 2019 2020 2021 2022 2023 2024 The world's 1st quadruped robot joined earthquake relief drill The 1st quadruped robot to receive ‘ First Set’ equipment certification in China The 1st quadruped robot to achieve intelligent inspection of underground utility tunnels in China The only quadruped robot company involved in establishing standards for new generation of State Grid substation robots Completed the entire process of intelligent substation inspection The launch of Singapore PowerGrid project marks the 1st overseas industrial application of quadruped robots from China The 1st quadruped robot with stair climbing, auto navigation, and intelligent interaction in China The 1st quadruped robot with auto self-charging in China The 1st quadruped robot completed auto inspection of substations in China Asian Game village underground tunnel inspection The 1st quadruped robot achieved auto power inspection in China The world's 1st robot dog fleet for exploration of unknown environments Serving 400+ industry- level customers in 29 provinces across China About us Milestone P io n e e rin g In n o va t io n & Ap p lic a t io n o f Em b o d ie d AI The 1st \"wheel-legged robotic dog\" for intelligent substation inspection across the entire network.",
+          "images": [
+            "images/CompanyProfile_p7_img1.jpeg",
+            "images/CompanyProfile_p7_img2.jpeg",
+            "images/CompanyProfile_p7_img3.jpeg",
+            "images/CompanyProfile_p7_img4.jpeg",
+            "images/CompanyProfile_p7_img5.jpeg",
+            "images/CompanyProfile_p7_img6.jpeg",
+            "images/CompanyProfile_p7_img7.jpeg",
+            "images/CompanyProfile_p7_img8.jpeg",
+            "images/CompanyProfile_p7_img9.jpeg",
+            "images/CompanyProfile_p7_img10.jpeg",
+            "images/CompanyProfile_p7_img11.jpeg",
+            "images/CompanyProfile_p7_img12.jpeg",
+            "images/CompanyProfile_p7_img13.jpeg",
+            "images/CompanyProfile_p7_img14.jpeg",
+            "images/CompanyProfile_p7_img15.jpeg",
+            "images/CompanyProfile_p7_img16.jpeg",
+            "images/CompanyProfile_p7_img17.jpeg",
+            "images/CompanyProfile_p7_img18.jpeg"
+          ]
+        },
+        {
+          "page_number": 8,
+          "text": "PROPRIETARY TECHNOLOGIES Flagship Product Born for the Industry 95% 1000+ DELIVERED PRODUCTS ANNUALLY WITH REVENUE IN THE HUNDREDS OF MILLIONS The co re co m p o n e n t s a n d s yst e m s , m o t io n co n t ro l a lgo rit h m s , in t e llige n t e n viro n m e n t a l p e rce p t io n a re a ll s e lf-d e ve lo p e d a n d a t t h e in d u st r y-le a d in g le ve l. 400+ IMPLEMENTED INDUSTRY PROJECTS About us Key Advantage Jueying Series robots have been used in power stations, factories, tunnel inspections, emergency rescue, fire investigation, and scientific research.",
+          "images": [
+            "images/CompanyProfile_p8_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 9,
+          "text": " National High-tech Enterprise  National specialized and sophisticated enterprises  Zhejiang Specialized and Sophisticated SME  Zhejiang Manufacturing Excellence Six Little Dragons of Hangzhou 50+ Invention Patent Software Copyright 7 Issued Patent 130+ Patent Application 60+  Zhejiang High-tech Enterprise R&D Center  Quasi-unicorn Enterprise  The m ost investm ent-worthy innovative com panies in Zhejiang  CN 1st‘ First Set’ certification Quadruped Robot com pany Rising \"tech upstart\" companies in Hangzhou that are at the forefront of new technologies and have industry influence. China's \"Secret Weapon\" of New-Quality Productivity Honors About us",
+          "images": [
+            "images/CompanyProfile_p9_img1.png",
+            "images/CompanyProfile_p9_img2.jpeg",
+            "images/CompanyProfile_p9_img3.png",
+            "images/CompanyProfile_p9_img4.jpeg",
+            "images/CompanyProfile_p9_img5.png",
+            "images/CompanyProfile_p9_img6.png",
+            "images/CompanyProfile_p9_img7.png",
+            "images/CompanyProfile_p9_img8.png",
+            "images/CompanyProfile_p9_img9.png",
+            "images/CompanyProfile_p9_img10.jpeg",
+            "images/CompanyProfile_p9_img11.png",
+            "images/CompanyProfile_p9_img12.png",
+            "images/CompanyProfile_p9_img13.png",
+            "images/CompanyProfile_p9_img14.png",
+            "images/CompanyProfile_p9_img15.jpeg",
+            "images/CompanyProfile_p9_img16.png",
+            "images/CompanyProfile_p9_img17.jpeg",
+            "images/CompanyProfile_p9_img18.jpeg",
+            "images/CompanyProfile_p9_img19.jpeg",
+            "images/CompanyProfile_p9_img20.png",
+            "images/CompanyProfile_p9_img21.jpeg",
+            "images/CompanyProfile_p9_img22.png",
+            "images/CompanyProfile_p9_img23.jpeg",
+            "images/CompanyProfile_p9_img24.png",
+            "images/CompanyProfile_p9_img25.jpeg"
+          ]
+        },
+        {
+          "page_number": 10,
+          "text": "*排 排 排 排 排 排 排 排 *No Ranking Order Partners & Clients Our partners & clients covering t op-ranking institutes , companies , and universities About us",
+          "images": [
+            "images/CompanyProfile_p10_img1.jpeg",
+            "images/CompanyProfile_p10_img2.png",
+            "images/CompanyProfile_p10_img3.jpeg",
+            "images/CompanyProfile_p10_img4.png",
+            "images/CompanyProfile_p10_img5.png",
+            "images/CompanyProfile_p10_img6.png",
+            "images/CompanyProfile_p10_img7.jpeg",
+            "images/CompanyProfile_p10_img8.jpeg",
+            "images/CompanyProfile_p10_img9.jpeg",
+            "images/CompanyProfile_p10_img10.png",
+            "images/CompanyProfile_p10_img11.png",
+            "images/CompanyProfile_p10_img12.jpeg",
+            "images/CompanyProfile_p10_img13.jpeg",
+            "images/CompanyProfile_p10_img14.jpeg",
+            "images/CompanyProfile_p10_img15.jpeg",
+            "images/CompanyProfile_p10_img16.jpeg",
+            "images/CompanyProfile_p10_img17.jpeg",
+            "images/CompanyProfile_p10_img18.jpeg",
+            "images/CompanyProfile_p10_img19.png"
+          ]
+        },
+        {
+          "page_number": 11,
+          "text": "Top Media Press About us Social Media Official Media Newsroom",
+          "images": [
+            "images/CompanyProfile_p11_img1.jpeg",
+            "images/CompanyProfile_p11_img2.jpeg",
+            "images/CompanyProfile_p11_img3.png",
+            "images/CompanyProfile_p11_img4.png",
+            "images/CompanyProfile_p11_img5.png",
+            "images/CompanyProfile_p11_img6.png",
+            "images/CompanyProfile_p11_img7.png",
+            "images/CompanyProfile_p11_img8.jpeg",
+            "images/CompanyProfile_p11_img9.jpeg",
+            "images/CompanyProfile_p11_img10.jpeg",
+            "images/CompanyProfile_p11_img11.png",
+            "images/CompanyProfile_p11_img12.png",
+            "images/CompanyProfile_p11_img13.jpeg",
+            "images/CompanyProfile_p11_img14.jpeg",
+            "images/CompanyProfile_p11_img15.png",
+            "images/CompanyProfile_p11_img16.jpeg"
+          ]
+        },
+        {
+          "page_number": 12,
+          "text": "02. Solutions",
+          "images": [
+            "images/CompanyProfile_p12_img1.jpeg",
+            "images/CompanyProfile_p12_img2.png"
+          ]
+        },
+        {
+          "page_number": 13,
+          "text": "• The intelligent inspection solutions for substations and power tunnel were completed first. • Applied in 26 provinces and cities, with a market share of more than 85%. • In 2023, the new transformer substation robots of the State Grid was piloted in 6 provinces , all of which adopted the Jueying series . • The Chinese 1st Quadruped Robot to get the frist (set) recognition . • Deployments in Singapore and Korea are underway. Power Patrol • In 2022, The world’s first quadruped robot to attend earthquake relief drills. • In 2022, hazard rescue robot dogs were launched with a market share of over 90% . • In 2023, police patrol robot dogs were launched, equipped with a four-in-one (sound pickup, strobe light, lighting, and shouting) + stabilized gimbal. • In 2023, attended drill for flood prevention & emergency rescue in Hubei • In 2024, the “ Emergency Mission 2024” explosive detection dog was on duty Public Security • In 2022, Metallurgical Industry - The inspection of the electrolytic cell in a electrolytic aluminum industry • In 2022, Energy Industry - An intelligent inspection project in a thermal power plant. • In 2022, Coal Industry - The inspection of the raw coal bin in a coal mine. • In 2023排 Steel Indust ry - The inspection of the conveyor corridor in Baosteel. • In 2023, Food Industry - An autonomous inspection project in a famous brewery. Industry • In 2023排 Highway - Tunnel Traffic Accident Drill in Shanxi. • In 2024, Aviation - the airport runway patrol project at Xiaoshan International Airport in Hangzhou, Zhejiang. Traffic In d u s t r y a p p lic a t io n e xp e rt in q u a d r u p e d ro b o t s Solutions Scenarios",
+          "images": [
+            "images/CompanyProfile_p13_img1.jpeg",
+            "images/CompanyProfile_p13_img2.jpeg",
+            "images/CompanyProfile_p13_img3.jpeg",
+            "images/CompanyProfile_p13_img4.jpeg"
+          ]
+        },
+        {
+          "page_number": 14,
+          "text": "By 2025 , Advanced Emergency Robots will be Developed to Significantly Improve t he Level of Scientific, Professional, Refined, and Intelligent . - the China ’s \"Two Sessions \" 2024 \"AI+\" was Written in the Government Work Report for the First Time . \" Robotics +\" Application Action Implementation Plan was released . Solutions Policy - the Ministry of Emergency Management (MEM) & the Ministry of Industry and Information Technology (MIIT) Guiding Opinions on Accelerating the Development of Emergency Robots: - the MIIT & the MEM and other 17 departments",
+          "images": [
+            "images/CompanyProfile_p14_img1.png",
+            "images/CompanyProfile_p14_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 15,
+          "text": "03. Product",
+          "images": [
+            "images/CompanyProfile_p15_img1.jpeg",
+            "images/CompanyProfile_p15_img2.png"
+          ]
+        },
+        {
+          "page_number": 16,
+          "text": "产 品 发 展 线 Product history Product Pioneering Innovation & Application of Embodied AI DR01 2024 Embodied AI general purpose humanoid robot X30 2023 Industrial Application Flagship Robot Dog X20 2021 Industrial Application Flagship Robot Dog Lite 2020 Academic Research Robot Dog X10 2019 1st Industrial Application Robot Dog J 80&J 100 Series 2024 High Performance Robot Joints Pro 2018 Climb Stair, Run, Jump Mini 2020 Dexterous Quadruped Robot Dog Lite2 2021 Academic Research Robot Dog Lite3 2023 Academic Research Robot Dog J 60 Series 2024 High Performance Robot Joints DEEPRotbocisLynx 2024 All-terrain robot",
+          "images": [
+            "images/CompanyProfile_p16_img1.jpeg",
+            "images/CompanyProfile_p16_img2.png",
+            "images/CompanyProfile_p16_img3.jpeg",
+            "images/CompanyProfile_p16_img4.jpeg",
+            "images/CompanyProfile_p16_img5.png",
+            "images/CompanyProfile_p16_img6.png",
+            "images/CompanyProfile_p16_img7.jpeg",
+            "images/CompanyProfile_p16_img8.jpeg",
+            "images/CompanyProfile_p16_img9.png",
+            "images/CompanyProfile_p16_img10.png",
+            "images/CompanyProfile_p16_img11.png",
+            "images/CompanyProfile_p16_img12.png",
+            "images/CompanyProfile_p16_img13.png",
+            "images/CompanyProfile_p16_img14.jpeg"
+          ]
+        },
+        {
+          "page_number": 17,
+          "text": "Power Inspection Components Proprietary Motor & Joint Algorithm Locomotion, Perception Interaction Robot-humand Interaction P r o d u c t & S e r v i c e S o l u t i o n Product Matrix More… Academic Research Emergency Rescue Public Security Q u a d r u p e d R o b o t E c o l o g y Product X30 Lite3 DEEPRoboticsLynx More… DR01",
+          "images": [
+            "images/CompanyProfile_p17_img1.jpeg",
+            "images/CompanyProfile_p17_img2.png",
+            "images/CompanyProfile_p17_img3.png",
+            "images/CompanyProfile_p17_img4.jpeg",
+            "images/CompanyProfile_p17_img5.jpeg",
+            "images/CompanyProfile_p17_img6.png",
+            "images/CompanyProfile_p17_img7.png",
+            "images/CompanyProfile_p17_img8.png",
+            "images/CompanyProfile_p17_img9.jpeg",
+            "images/CompanyProfile_p17_img10.png",
+            "images/CompanyProfile_p17_img11.jpeg",
+            "images/CompanyProfile_p17_img12.png",
+            "images/CompanyProfile_p17_img13.png",
+            "images/CompanyProfile_p17_img14.jpeg",
+            "images/CompanyProfile_p17_img15.png",
+            "images/CompanyProfile_p17_img16.jpeg"
+          ]
+        },
+        {
+          "page_number": 18,
+          "text": "DR01 DR01 has a walking speed of over 1.6 m /s and can navigate 18 cm steps, 25° slopes, and uneven terrain. It can swiftly recover balance and m aintain stable walking even under unknown disturbances such as slippery surfaces and external forces. Flexible Mobility DR01 integrates the robot's own perception and environm ental perception, achieving stable traversal across com plex and discrete terrains through a learning algorithm that com bines sensing and control. Fusion Perception Capability Through AI and big data training, DR01 can autonom ously generate new behavioral skills in response to changing environm ents and task requirem ents. Autonomous Learning Ability Product Embodied AI General- Purpose Humanoid Robot",
+          "images": [
+            "images/CompanyProfile_p18_img1.jpeg",
+            "images/CompanyProfile_p18_img2.png"
+          ]
+        },
+        {
+          "page_number": 19,
+          "text": "Climb platforms up to 80cm; Reach speeds of 5 m/s; Navigate continuous 22cm steps; Tackle a variety of challenging terrains. Wild Performance IP54 protection rating; High-perform ance im age/video transm ission; Exceptional interactive experience. Robust long-endurance; Hot-swappable battery system . All-Weather Exploration Built on the \"DEEP Robotics AI+\" initiative; Inherit DEEP Robotics' expertise in Em bodied AI; Feature custom ized adaptations tailored to DEEPRoboticsLynx's unique design. Embodied Intelligence All-terrain robot DEEPRoboticsLynx D E E P Ro b o t i c s l y n x Product",
+          "images": [
+            "images/CompanyProfile_p19_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 20,
+          "text": "X30 X30 Quadruped Robot A Flagship product Born for the Industry IP67 protection ； Able to opreate from 20°C to 55°C. Undaunted by Extreme Weather Able to climb 45° stairs and hollow industrial staircase. Speedy Obstacle Crossing & Rapid Response Able to navigate and operate autonomously under different light source conditions. Fusion Perception Lights up the Darkness X30 features a 25% increase in enduracne; Battery supports quick change on site. Extra-long Endurance & Quick Battery Swaps New fusion positioning- based autonomous charging solutions; Address issues including light, stains, and dust. Stable & Reliable Auto-charging Product",
+          "images": [
+            "images/CompanyProfile_p20_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 21,
+          "text": "Lite3 The joint torque has increased by 50%, with high torque density, response bandwidth and reversed transmission efficiency. Stronger Driving Force Enhance FPV image transmission, fewer lag errors. Interaction System Make the movement more deft, and have stronger surmounting and maneuver ability. Algorithm Upgrades Additional applicable module design for unlimited modifications. Expansion Evolution Lite3 Quadruped Robot The Latest Generation of Agile Intelligent Robot Dog Product",
+          "images": [
+            "images/CompanyProfile_p21_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 22,
+          "text": "J60 Have superior torque performance under the same weight level. The maximum torque -to- weight ratio can reach 56.48N·m/kg (J60 -10). High Performance It integrates a reducer, frameless torque motor, servo driver, and absolute value encoder into one, with a compact structure and convenient installation. Integrated Design Have been applied to Lite3 and verified through pratical test. Suitable for various usage demands. Reliable & Durable Feature It is equipped with a built-in driver and motor temperature detection & protection system, which monitors input current and voltage in real-time. Status Detection & Protection It is equipped with serial port and CAN communication interfaces; Provide visual joint debugging software, supporting Windows and Linux systems; Provide CAN communication protocol, and SDK and usage examples written in C language, and support Linux. Debugging & Development Kit Product",
+          "images": [
+            "images/CompanyProfile_p22_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 23,
+          "text": "J80&J100 The J100-116P boasts a peak output torque of 315 N·m, with a peak torque density of 107.5 N·m/kg . Excellent Performance The J80 and J100 follow industrial-grade specifications in design and production. Industrial-grade Product Spc The J80 and J100 have been verified in practical applications on X30, withstanding various complex environments. Same Joints as the X30 Utilizing the world’s first reliable battery- free multi-turn absolute encoder, it has high accuracy, reliability, and durability. High-precision Control Adopting a high-speed EtherCAT communication solution, it is compatible with the control of 30 joints simultaneously. High-speed Comm Solution Product",
+          "images": [
+            "images/CompanyProfile_p23_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 24,
+          "text": "Product AI-ENHANCED LOCOMOTION ROBOTSPLAYHOUSE The ultimate robot chase contest WCT robot dog version Enjoy controlling robots, use their unique skills, best 2 out of 3 and win! Robot Play House",
+          "images": [
+            "images/CompanyProfile_p24_img1.png",
+            "images/CompanyProfile_p24_img2.jpeg",
+            "images/CompanyProfile_p24_img3.jpeg"
+          ]
+        },
+        {
+          "page_number": 25,
+          "text": "Pioneering Innovation & Application of Embodied AI Product Integrate AI with the Robot Software System to Reinforce E mbodied Intelligence AI+ Plan AI + software system allows quadruped robots to use a large amount of data for self- learning and training, achieving more intelligent movement capabilities. In the future, robots will also expand to perception, planning, decision-making, and human- robot interaction capabilities.",
+          "images": [
+            "images/CompanyProfile_p25_img1.jpeg",
+            "images/CompanyProfile_p25_img2.jpeg",
+            "images/CompanyProfile_p25_img3.jpeg",
+            "images/CompanyProfile_p25_img4.jpeg"
+          ]
+        },
+        {
+          "page_number": 26,
+          "text": "Applications 04.",
+          "images": [
+            "images/CompanyProfile_p26_img1.jpeg",
+            "images/CompanyProfile_p26_img2.png"
+          ]
+        },
+        {
+          "page_number": 27,
+          "text": "Applications Power Patrol DEEPRobotics has partnered closely with the official partner, Eastern Green Power (EGP) to successfully deliver an electricity tunnel inspection solution for Singapore Power Group (SPGroup). SPGroup has named the inspection robot \"SPock.\" Thanks to SPock's high reliability and efficiency in underground corridor inspections, SPGroup plans to further expand the adoption of this technology to minimize safety risks for employees and optimize tasks and processes through digital technology . It is estimated that with SPock’s wider deployment, 480 hours of manual tunnel inspection time will be saved annually. DEEP Robotics’ X30 robot dog Industry Application Im plem ented in Singapore Power Grid The first industry-grade quadruped robot from China to be deployed in an overseas power system. Foreign Ministry Spokesperson Lin Jian shared and praised",
+          "images": [
+            "images/CompanyProfile_p27_img1.jpeg",
+            "images/CompanyProfile_p27_img2.png",
+            "images/CompanyProfile_p27_img3.jpeg"
+          ]
+        },
+        {
+          "page_number": 28,
+          "text": "The robot dog independently performs image and meter collection, equipment appearance and temperature detection in a 110kV substation. Applications The robot dog was used to execute inspection to ensure the safe operation of power device. Converter Station Inspection in Anhui Ground-air Integration Inspection The robot dog + UAV ground-air integration is used to detect the substation equipment. The robot dog has replaced manual inspections, reducing the manual inspections and improving the efficiency of inspcetions. J inan Substation Intelligent Inspection Power Patrol Substation Inspection in Jiangsu A State Grid utility tunnel has adopted X20 for its power tunnel inspection solution, establishing a smart inspection platform to achieve fully intelligent inspection and operation of key tunnel equipment. Hangzhou Asian Games Village Power Utility Tunnel",
+          "images": [
+            "images/CompanyProfile_p28_img1.png",
+            "images/CompanyProfile_p28_img2.jpeg",
+            "images/CompanyProfile_p28_img3.jpeg",
+            "images/CompanyProfile_p28_img4.jpeg",
+            "images/CompanyProfile_p28_img5.jpeg",
+            "images/CompanyProfile_p28_img6.jpeg"
+          ]
+        },
+        {
+          "page_number": 29,
+          "text": "The X30 ro b o t d o g a n d t h e d ro n e collaborated to complete the detection of th e su d d e n fla m m a b le a n d e xp lo sive chemical hazard. Through the dual-light gimbal and gas detector carried, it detects th e te m p era tu re o f the fire field , the intensity of radiant heat, toxic and harmful ga ses, a nd the situa tion o f o bsta cles, p rovid ing valuable inform ation for the rescue personnel . Em ergency Mission 2024 Applications Hazard Rescue",
+          "images": [
+            "images/CompanyProfile_p29_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 30,
+          "text": "Applications The robot dog can identify dangers of dam, realize intelligent inspection and provide support for emergency rescue work. Flood Rescue Drill in Hubei Tunnel Traffic Accident Drill in Shanxi The robot dog conducted preliminary investigation of uncertain factors in a toxic and harmful environment at the accident site. The robot dog was involved in the earthquake rescue drill for the first time in the world, detecting the radiant heat intensity and obstacle situation, and helping search for buried people. Em ergency Mission 2022 The robot dog is composed of four function modules: intelligent inspection, robotic arm, automatic firefighting, and emergency rescue Highway Em ergency Inspection Robot The drill simulated the leakage and explosion of natural gas pipelines and used robot dogs in the detection, throwing supplies, and firefighting. Inner Mongolia Drill Hazard Rescue",
+          "images": [
+            "images/CompanyProfile_p30_img1.jpeg",
+            "images/CompanyProfile_p30_img2.jpeg",
+            "images/CompanyProfile_p30_img3.jpeg",
+            "images/CompanyProfile_p30_img4.jpeg",
+            "images/CompanyProfile_p30_img5.jpeg"
+          ]
+        },
+        {
+          "page_number": 31,
+          "text": "Equipped with surveying and mapping devices from TBNET, the robot dog completed data collection in complex terrains. TBNET Surveying & Mapping Robot Dog Survey & Map an Overseas Construction Site The robot dog used surveying and mapping devices to collect data for building structure measurement, geological exploration, etc. By using multimodal large models, they provide timely feedback and warnings, and autonomously complete assigned tasks. Chengdu Police Street Patrol Other Industry The robot dog realizes intelligent inspection in this environment, avoiding the harm of electromagnetic radiation to personnel. The Electrolytic Aluminum Tank Inspection The robot dog completes temperature measurement, leakage detection, meter reading, harmful gas alarm, and noise data detection on devices. The Brewery Autonomous Inspection The robot do g used multi -dimensional perception system including vision, hearing, temperature sensing, and force sensing to replace mannual inspection . The Conveyor Belt Gallery Inspection Applications",
+          "images": [
+            "images/CompanyProfile_p31_img1.jpeg",
+            "images/CompanyProfile_p31_img2.jpeg",
+            "images/CompanyProfile_p31_img3.jpeg",
+            "images/CompanyProfile_p31_img4.jpeg",
+            "images/CompanyProfile_p31_img5.jpeg",
+            "images/CompanyProfile_p31_img6.jpeg",
+            "images/CompanyProfile_p31_img7.png"
+          ]
+        },
+        {
+          "page_number": 32,
+          "text": "The 19th Hangzhou Asian Gam es Group-Control Dance Show Applications Performance DEEP Robotics & Zhejiang Lab used collaborative group control technology to combine bipedal robots and quadruped robots to complete the performance of the theme song “ The love we share” of the Asian Games Village.",
+          "images": [
+            "images/CompanyProfile_p32_img1.jpeg",
+            "images/CompanyProfile_p32_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 33,
+          "text": "The robotic dog from DEEP Robotics performed the song \"Shan He Tu\" alongside renowned artists Duan Aojuan and Fu Longfei at the Snake Year Spring Festival Intangible Cultural Heritage Gala. The event showcased the fusion and collision of intangible cultural heritage with cutting- edge domestic technology. The First Intangible Cultural Heritage Gala The 2025 Spring Festival Gala Performance Applications",
+          "images": [
+            "images/CompanyProfile_p33_img1.jpeg",
+            "images/CompanyProfile_p33_img2.png",
+            "images/CompanyProfile_p33_img3.jpeg"
+          ]
+        },
+        {
+          "page_number": 34,
+          "text": "Robot dogs at Enshi Grand Canyon scenic area, kicking off a unique New Year intangible cultural heritage and technology show, garnering over 100 million cumulative online views. The New Year at Hubei Enshi Grand Canyon Performance DEEP Robotics robotic dog participated in the renowned large-scale interactive reality show Zhongdiba and engaged in fun interactions with the \"Ten Diligent Farmers\" team members Popular Variety Show “ Zhongdiba ” The Beijing TVSpring Festival Gala featured robotic dogs from DEEP Robotics dressed in traditional lion dance costumes, adding an innovative technological flair to the event. Beijing TV Spring Festival Gala The robot dog performed the song “I Want to Be the Wind” alongside artist Wei Daxun at Hunan TV Mid- Autumn Festival Gala, combing robots and moon, showcasing a vision of future technology . Wei Daxun at the Mid - Autumn Festival Gala The Spring Festival skit features artists Li Zongheng and Xu Yizhen collaborating with robots . The story revolves around robots integrating into the protagonists' lives, helping them solve. Web Series \"Love, Smiles, and Robots\" With Wu Xiaobo on his well-known large-scale financial program, the \"Year-End Show.\" During the program , Wu Xiaobo discussed the rapid development of robotics and AI. Wu Xiaobo's Year-End Show Applications",
+          "images": [
+            "images/CompanyProfile_p34_img1.jpeg",
+            "images/CompanyProfile_p34_img2.jpeg",
+            "images/CompanyProfile_p34_img3.jpeg",
+            "images/CompanyProfile_p34_img4.png",
+            "images/CompanyProfile_p34_img5.jpeg",
+            "images/CompanyProfile_p34_img6.jpeg",
+            "images/CompanyProfile_p34_img7.jpeg"
+          ]
+        },
+        {
+          "page_number": 35,
+          "text": "DEEP Ro b o tics a nd Ascend CANN held the “ Quadruped Robot Dog Development Training Ca m p ” , ce n te rin g o n co n tro l a lgo rith m s, reinforcement learning, and physical deployment, using the Lite3. The ROS System Robot Dog Developm ent Training Cam p Applications Eduction & Research",
+          "images": [
+            "images/CompanyProfile_p35_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 36,
+          "text": "The China Science and Technology Museum uses robot dog in the exhibition area of “ Robots and AI” . In this exhibition, Jueying can walk independently on various terrain environments. Audiences can also control it through voice commands to reach the target area or complete the designated actions. Robot & AI Exhibition Hall in China Science & Technology Museum Applications Education & Research",
+          "images": [
+            "images/CompanyProfile_p36_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 37,
+          "text": "Due to product updates, contents may change, please consult for final confirmation @ DEEP Robotics PIONEERING INNOVATION & APPLICATION OF EMBODIED AI",
+          "images": [
+            "images/CompanyProfile_p37_img1.png",
+            "images/CompanyProfile_p37_img2.png",
+            "images/CompanyProfile_p37_img3.png",
+            "images/CompanyProfile_p37_img4.png"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "DEEPRobotics-Lite3 Quadruped Robot 9.2.2023 ENV.pdf",
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Lite3 Quadruped Robot Extraordinary locomotion Modify with your imagination",
+          "images": [
+            "images/Lite3_p1_img1.jpeg",
+            "images/Lite3_p1_img2.jpeg",
+            "images/Lite3_p1_img3.jpeg",
+            "images/Lite3_p1_img4.jpeg"
+          ]
+        },
+        {
+          "page_number": 2,
+          "text": "Lite3 Video",
+          "images": [
+            "images/Lite3_p2_img1.jpeg"
+          ]
+        },
+        {
+          "page_number": 3,
+          "text": "Advantages of Lite3 ALGORITHM UPGRADES MORE AGILE AND RESPONSIVE Stronger surmounting ability and greater maneuverability 版权所有，未经许可请勿使用 Other actions like back flip, twist dance & jump, wave hand, moon walk, self-right Climb steps up to 15 cm, almost the maximum height for any quadruped robot of similar size Realize challenging actions of jump over gaps, high jump, front flip",
+          "images": [
+            "images/Lite3_p3_img1.jpeg",
+            "images/Lite3_p3_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 4,
+          "text": "Advantages of Lite3 EXPANSION EVOLUTION Additional applicable module design for unlimited modifications Supports depth-devlopment of auto- navigation, obstacle aviodnece, visual positioning, 3D mapping with Lidar & depth camera 版权所有，未经许可请勿使用 Support advanced perceptional development interface (SDK API) Open modular structure & interfaces, support RTK, 5G, AI computer, edge processor and sensors",
+          "images": [
+            "images/Lite3_p4_img1.jpeg",
+            "images/Lite3_p4_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 5,
+          "text": "Advantages of Lite3 50% JOINT TORQUE INCREASED STRONGER DRIVING FORCE The proprietary high-torque joint drive module comes equipped with extremely high torque density, response bandwidth, and reversed transmission efficiency ·Continuous Max.load has increased 40%, up to 7.5kg ·Endurance doubled, continuous movement up to 90min & 5km INDUSTRIAL-LEVEL CONTROL SYSTEM WITH TRIPLE THE COMPUTING POWER Industrial IMU A comprehensive upgrades on stability and computing ·Triple the overall computing power ·With real-time communication, the control frequency up to 1kHz ·Features an industrial-level real-time control system with deeply optimized kernel 版权所有，未经许可请勿使用",
+          "images": [
+            "images/Lite3_p5_img1.jpeg",
+            "images/Lite3_p5_img2.jpeg"
+          ]
+        },
+        {
+          "page_number": 6,
+          "text": "Advantages of Lite3 INTERACTION SYSTEM UPGRADES ·Enhanced FPV image transmission, fewer lag errors ·Enhanced lights interaction, users are able to know robot’s state in real-time SAFER & DIVERSE PERCEPTION Support front & rear auto-stop, recognition, object following, obstacle avoidance, and auto-navigation * These functions are only available for particular versions 版权所有，未经许可请勿使用",
+          "images": [
+            "images/Lite3_p6_img1.jpeg",
+            "images/Lite3_p6_img2.jpeg",
+            "images/Lite3_p6_img3.jpeg",
+            "images/Lite3_p6_img4.jpeg"
+          ]
+        },
+        {
+          "page_number": 7,
+          "text": "Lite3 Parameters 版权所有，未经许可请勿使用 . * All parameters are labortary data, operate in real enviroment may have differences.",
+          "images": [
+            "images/Lite3_p7_img1.jpeg",
+            "images/Lite3_p7_img2.jpeg",
+            "images/Lite3_p7_img3.jpeg",
+            "images/Lite3_p7_img4.jpeg",
+            "images/Lite3_p7_img5.jpeg"
+          ]
+        },
+        {
+          "page_number": 8,
+          "text": "Leading the industrial application of quadruped robot",
+          "images": [
+            "images/Lite3_p8_img1.jpeg",
+            "images/Lite3_p8_img2.jpeg",
+            "images/Lite3_p8_img3.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "DEEPRobotics-LYNX M20 ENV 04.28.2025.pdf",
+      "pages": [
+        {
+          "page_number": 1,
+          "text": "Omni-Terrain Operations Travel Light TEL：400-0559-095 Parameters are based on oﬃcial test data; actual performance may vary in real-world conditions. www.deeprobotics.cn Extreme Environments Continuous Operations IP66 protection rating Operate in temperatures from -20℃ to 55℃ Agile & Versatile More Application Scenarios Backpack-sized for easy transport Navigate freely through 50cm narrow passages Lighter, Faster, Smarter The all-new LYNX M20 debuts as a medium-sized, agile, and portable robot with industry-leading capabilities for harsh environments. Ultra-Wide Joint Mobility Range Seamless \"transformation\", switch freely between \"front elbow/rear knee\" and \"full elbow\" leg conﬁgurations to adapt to diverse scenarios. Industry-Leading Performance Payload 15kg Max. load 50kg Max Endurance 2.5h Stair-climbing height 25cm",
+          "images": [
+            "images/LYNXM20_p1_img1.jpeg",
+            "images/LYNXM20_p1_img2.jpeg",
+            "images/LYNXM20_p1_img3.jpeg",
+            "images/LYNXM20_p1_img4.jpeg",
+            "images/LYNXM20_p1_img5.jpeg",
+            "images/LYNXM20_p1_img6.jpeg",
+            "images/LYNXM20_p1_img7.jpeg",
+            "images/LYNXM20_p1_img8.png"
+          ]
+        },
+        {
+          "page_number": 2,
+          "text": "SPECIFICATIONS LYNX M20 Dimension 0.82m*0.43m*0.57m Weight Payload Unloaded Endurance/Range Loaded Endurance/Range 33kg 15kg 3h/15km 2.5h/12km 0.82m*0.43m*0.57m 33kg 15kg 3h/15km 2.5h/12km LYNX M20 Pro [1] Lab-tested extreme data; speed limited to 3m/s for safety. [2] Lab-tested data; actual performance may vary by surface material. [3] [4] This feature will be available via a future OTA update. All parameters are based on oﬃcial test data; actual performance may vary. Final interpretation rights belong to DEEP Robotics. Ingress protection Temperature IP66 -20℃~55℃ IP66 -20℃~55℃ Max. Speed [1] Field Operating Speed Step/Obstacle’s H Slope[2] 5m/s 2m/s 25cm 45° 5m/s 2m/s 25cm 45° LiDAR Computing Power Dual Octa-Core 64-bit Industrial Processors (16GB+128GB) Triple Octa-Core 64-bit Industrial Processors (16GB+128GB) Wide-angle Camera ×2 ×2 ×2 ×2 Point Cloud Surround View[4] Auto Charging Front/Rear LED Lights Hot-Swappable Battery — SLAM Mapping & Navigation Omni-Directional Obstacle Avoidance[3] — (Optional) Hardware Interfaces Power Port (72V) Gigabit Ethernet Power Port (24V/72V) Gigabit Ethernet, USB 3.0 oﬃcial website",
+          "images": [
+            "images/LYNXM20_p2_img1.png",
+            "images/LYNXM20_p2_img2.jpeg",
+            "images/LYNXM20_p2_img3.jpeg",
+            "images/LYNXM20_p2_img4.jpeg",
+            "images/LYNXM20_p2_img5.jpeg",
+            "images/LYNXM20_p2_img6.jpeg",
+            "images/LYNXM20_p2_img7.png"
+          ]
+        }
+      ]
+    }
+  ]
+}
